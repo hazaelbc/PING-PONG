@@ -67,16 +67,18 @@
 
 <div>
   <h2 align="center">Requisitos Mínimos</h2>
-  
-  ### Hardware:
-- Procesador: 1 GHz
-- Memoria RAM: 2 GB RAM
-
-### Software:
-- Sistema operativo: Windows o Linux.
-
-### Compatibilidad de bibliotecas y versiones:
-- Asegurarse de tener las versiones correctas y compatibles de las bibliotecas SDL2 y Glew.h requeridas para evitar problemas de compatibilidad y funcionamiento.
-
+  <h3 align="center">Hardware:</h4>
+   <p align="center">
+     - Procesador: 1 GHz
+     - Memoria RAM: 2 GB RAM
+   </p>
+    <h3 align="center">Software:</h4>
+   <p align="center">
+     - Sistema operativo: Windows o Linux.
+   </p>
+    <h3 align="center"> Compatibilidad de bibliotecas y versiones:</h4>
+   <p align="center">
+     - Asegurarse de tener las versiones correctas y compatibles de las bibliotecas SDL2 y Glew.h requeridas para evitar problemas de compatibilidad y funcionamiento.
+   </p>
 </div>
 
