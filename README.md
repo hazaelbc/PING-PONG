@@ -4,6 +4,10 @@
 
 <div>
   <h1 align="center">PING-PONG</h1>
+  <p align="center">
+    En este juego de ping-pong hecho en C, los jugadores controlan raquetas para golpear una pelota, compitiendo por puntos al evitar que la pelota pase más allá de su 
+    raqueta. La acción es rápida y desafiante, requiriendo reflejos precisos para mantener la pelota en juego.
+  </p>
 </div>
 
 <div>
