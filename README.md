@@ -67,6 +67,7 @@
 
 <div>
   <h2 align="center">Requisitos Mínimos</h2>
+  
   ### Hardware:
 - Procesador: 1 GHz
 - Memoria RAM: 2 GB RAM
