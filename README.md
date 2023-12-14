@@ -1,5 +1,5 @@
 ![No se encontro logo readme](LogoReadme/LogoReadmePE.png)
-<p style="font-family: Arial, sans-serif;" align="center">
+<p style=font-family: 'Silkscreen', sans-serif;" align="center">
   <b>PING-PONG</b>
 </p>
 <p align="center">
