@@ -34,9 +34,8 @@
 
 <div align="center">
   <h2 align="center">Descripción De Uso De Las Herramientas</h2>
- <h2 align="center">C en el código:</h2>
    <img src="IndumentariaReadme/Herramientas Utilizadas.png" alt="No se encontró el logo en el readme">
-   <h4 align="center">C (lenguaje de programación):</h4>
+   <h4 align="center">C en el código:</h4>
    <p align="center">
      Es un lenguaje de programación de bajo nivel muy versátil. Se utiliza ampliamente debido a su eficiencia y capacidad para interactuar 
      directamente con el hardware de la computadora. Es especialmente útil en situaciones donde se necesita un control preciso sobre los recursos del sistema.
