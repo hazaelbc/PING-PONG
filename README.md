@@ -30,6 +30,11 @@
      manejar las extensiones de OpenGL, proporcionando un entorno para utilizar las funcionalidades avanzadas de OpenGL de manera más sencilla. Permite a los desarrolladores 
      acceder a las últimas capacidades gráficas que ofrece la tarjeta gráfica del sistema.
    </p>
+  <h4 align="center">Photoshop:</h4>
+   <p align="center">
+     Photoshop es una aplicación de software desarrollada por Adobe que se utiliza principalmente para la edición y manipulación de imágenes. Es una herramienta muy poderosa y 
+     versátil que permite realizar una amplia gama de tareas relacionadas con el diseño gráfico, la fotografía y la creación de contenido visual.
+   </p>
 </div>
 
 <div align="center">
@@ -47,6 +52,11 @@
    <p align="center">
      GLEW (OpenGL Extension Wrangler Library) se emplea para gestionar extensiones de OpenGL y así habilitar el renderizado gráfico en 2D y 3D, permitiendo el manejo de 
      texturas y shaders para la representación visual del juego.
+   </p>
+  <h4 align="center">Photoshop en el juego:</h4>
+   <p align="center">
+     Para el diseño del juego, se empleó Photoshop, una herramienta poderosa de edición de imágenes, para crear y diseñar los elementos gráficos necesarios. Esto añadió un 
+     valor visual significativo y contribuyó a la estética del juego.
    </p>
 </div>
 
