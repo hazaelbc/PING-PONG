@@ -1,10 +1,11 @@
 <p align="center">
   <img src="IndumentariaReadme/LogoReadmePE.png" alt="No se encontró el logo en el readme">
 </p>
-
+<div align="center">
 <h1 align="center">PING-PONG</h1>
 <h3 align="center">Herramientas Utilizadas</h3>
 <img src="IndumentariaReadme/Herramientas Utilizadas.png" alt="No se encontró el logo en el readme">
+</div>
 
 <div align="center">
   <h3 align="center">Descripción</h3>
