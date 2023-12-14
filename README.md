@@ -18,13 +18,13 @@
      Es un lenguaje de programación de bajo nivel muy versátil. Se utiliza ampliamente debido a su eficiencia y capacidad para interactuar 
      directamente con el hardware de la computadora. Es especialmente útil en situaciones donde se necesita un control preciso sobre los recursos del sistema.
    </p>
-   <h3 align="center">SDL (Simple DirectMedia Layer):</h3>
+   <h4 align="center">SDL (Simple DirectMedia Layer):</h4>
    <p align="center">
      Es una librería multimedia multiplataforma ampliamente utilizada en el desarrollo de juegos, proporcionando una interfaz para manejar 
      gráficos, audio, entrada de usuario y más. SDL simplifica tareas como la creación de ventanas, la manipulación de eventos del sistema, la reproducción de audio y la carga 
      de imágenes, lo que permite a los desarrolladores enfocarse en la lógica del juego sin preocuparse tanto por las complejidades de la plataforma subyacente.
    </p>
-   <h3 align="center">GLEW (OpenGL Extension Wrangler Library):</h3>
+   <h4 align="center">GLEW (OpenGL Extension Wrangler Library):</h4>
    <p align="center">
      Es una librería que se utiliza con OpenGL, una API gráfica poderosa y versátil para renderización 2D y 3D. GLEW se encarga de 
      manejar las extensiones de OpenGL, proporcionando un entorno para utilizar las funcionalidades avanzadas de OpenGL de manera más sencilla. Permite a los desarrolladores 
