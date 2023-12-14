@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LogoReadme/LogoReadmePE.png" alt="No se encontró el logo en el readme">
+  <img src="IndumentariaReadme/LogoReadmePE.png" alt="No se encontró el logo en el readme">
 </p>
 
 <h1 align="center">PING-PONG</h1>
