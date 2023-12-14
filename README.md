@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">PING-PONG</h1>
-<h1 align="center">Herramientas Utilizadas</h1>
+<h2 align="center">Herramientas Utilizadas</h2>
 <img src="IndumentariaReadme/Herramientas Utilizadas.png" alt="No se encontró el logo en el readme">
 
 <div align="center">
