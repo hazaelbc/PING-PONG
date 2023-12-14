@@ -7,21 +7,21 @@
 </div>
 
 <div>
-   <h3 align="center">Herramientas Utilizadas</h3>
+   <h2 align="center">Herramientas Utilizadas</h2>
    <img src="IndumentariaReadme/Herramientas Utilizadas.png" alt="No se encontró el logo en el readme">
+   <h3 align="center">C (lenguaje de programación):</h3>
    <p align="center">
-     <h3 align="center">C (lenguaje de programación):</h3>
      Es un lenguaje de programación de bajo nivel muy versátil. Se utiliza ampliamente debido a su eficiencia y capacidad para interactuar 
      directamente con el hardware de la computadora. Es especialmente útil en situaciones donde se necesita un control preciso sobre los recursos del sistema.
    </p>
+   <h3 align="center">SDL (Simple DirectMedia Layer):</h3>
    <p align="center">
-     <h3 align="center">SDL (Simple DirectMedia Layer):</h3>
      Es una librería multimedia multiplataforma ampliamente utilizada en el desarrollo de juegos, proporcionando una interfaz para manejar 
      gráficos, audio, entrada de usuario y más. SDL simplifica tareas como la creación de ventanas, la manipulación de eventos del sistema, la reproducción de audio y la carga 
      de imágenes, lo que permite a los desarrolladores enfocarse en la lógica del juego sin preocuparse tanto por las complejidades de la plataforma subyacente.
    </p>
+   <h3 align="center">GLEW (OpenGL Extension Wrangler Library):</h3>
    <p align="center">
-     <h3 align="center">GLEW (OpenGL Extension Wrangler Library):</h3>
      Es una librería que se utiliza con OpenGL, una API gráfica poderosa y versátil para renderización 2D y 3D. GLEW se encarga de 
      manejar las extensiones de OpenGL, proporcionando un entorno para utilizar las funcionalidades avanzadas de OpenGL de manera más sencilla. Permite a los desarrolladores 
      acceder a las últimas capacidades gráficas que ofrece la tarjeta gráfica del sistema.
