@@ -70,7 +70,9 @@
   <h3 align="center">Hardware:</h4>
    <p align="center">
      - Procesador: 1 GHz
-     - Memoria RAM: 2 GB RAM
+   </p>
+   <p align="center">
+     - Memoria RAM: 2 GB
    </p>
     <h3 align="center">Software:</h4>
    <p align="center">
