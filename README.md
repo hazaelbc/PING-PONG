@@ -65,3 +65,17 @@
   <img src="IndumentariaReadme/Pantallas_Juego.png" alt="No se encontró las pantallas del juego">
 </div>
 
+<div>
+  <h2 align="center">Requisitos Mínimos</h2>
+  ### Hardware:
+- Procesador: 1 GHz
+- Memoria RAM: 2 GB RAM
+
+### Software:
+- Sistema operativo: Windows o Linux.
+
+### Compatibilidad de bibliotecas y versiones:
+- Asegurarse de tener las versiones correctas y compatibles de las bibliotecas SDL2 y Glew.h requeridas para evitar problemas de compatibilidad y funcionamiento.
+
+</div>
+
