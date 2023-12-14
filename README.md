@@ -65,8 +65,8 @@
   <img src="IndumentariaReadme/Pantallas_Juego.png" alt="No se encontró las pantallas del juego">
 </div>
 
-<div align="center">
-  <h2>Requisitos Mínimos</h2>
+<div>
+  <h2 align="center">Requisitos Mínimos</h2>
   
   ### Hardware:
 - Procesador: 1 GHz
