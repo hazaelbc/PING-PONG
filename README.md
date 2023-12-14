@@ -82,5 +82,10 @@
    <p align="center">
      - Asegurarse de tener las versiones correctas y compatibles de las bibliotecas SDL2 y Glew.h requeridas para evitar problemas de compatibilidad y funcionamiento.
    </p>
+   <h3 align="center"> Compilador Usado:</h4>
+   <p align="center">
+     - Compilador de skeeto: https://github.com/skeeto/w64devkit.git
+   </p>
 </div>
+
 
