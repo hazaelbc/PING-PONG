@@ -62,6 +62,6 @@
 
 <div>
   <h2 align="center">Pantallas Del Juego</h2>
-  <img src="IndumentariaReadme/Herramientas_Utilizadas.png" alt="No se encontró el logo en el readme">
+  <img src="IndumentariaReadme/Pantallas_Juego.png" alt="No se encontró las pantallas del juego">
 </div>
 
