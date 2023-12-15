@@ -62,7 +62,7 @@
 
 <div>
   <h2 align="center">Pantallas Del Juego</h2>
-  <img src="IndumentariaReadme/Pantallas_Juego.png" alt="No se encontró las pantallas del juego">
+  <img src="IndumentariaReadme/Pantallas_Botones.png" alt="No se encontró las pantallas del juego">
 </div>
 
 <div>
