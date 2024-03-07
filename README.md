@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IndumentariaReadme/Cabecero_Readme.png" alt="No se encontró el logo en el readme">
+  <img src="assets/Cabecero_Readme.png" alt="No se encontró el logo en el readme">
 </p>
 
 <div>
